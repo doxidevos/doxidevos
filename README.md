@@ -1,4 +1,13 @@
-## Hi there 👋
+Just a user learning lua.
+Not sure what to do next.
+Hoping to get picodl working perfectly at some point :D
+
+<!-- GitHub Stats Card -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doxidevos&show_icons=true&hide_border=true)](https://github.com/doxidevos)
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doxidevos&layout=compact&hide_border=true)](https://github.com/doxidevos)
+
 
 <!--
 **doxidevos/doxidevos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
